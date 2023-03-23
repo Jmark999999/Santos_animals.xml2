@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animals>
+    <animal type="Horse">
+        <animal model="Arabian horse">
+            <scientific_name>Equus caballus</scientific_name>
+            <bones>206</bones>
+            <legs>Four</legs>
+            <taxonomy_class>Mammals</taxonomy_class>
+            <life>25-30 yrs</life>
+            <role_in_foodchain>Herbivores</role_in_foodchain>
+        </animal>
+    </animal>
+    <animal type="Salamander">
+        <animal model="Spotted salamander">
+            <scientific_name>Urodela</scientific_name>
+            <bones>60</bones>
+            <legs>Four</legs>
+            <taxonomy_class>Amphibians</taxonomy_class>
+            <life>25-30 yrs</life>
+            <role_in_foodchain>Carnivores</role_in_foodchain>
+        </animal>
+    </animal>
+    <animal type="Dog">
+        <animal model="German Shepherd">
+            <scientific_name>Caris lupus familiaris</scientific_name>
+            <bones>321</bones>
+            <legs>Four</legs>
+            <taxonomy_class>Mammals</taxonomy_class>
+            <life>10-13 yrs</life>
+            <role_in_foodchain>Omnivores</role_in_foodchain>
+        </animal>
+    </animal>
+    <animal type="Cat">
+        <animal model="American Bobtail Cat">
+            <scientific_name>Felis silvestris catus</scientific_name>
+            <bones>230</bones>
+            <legs>Four</legs>
+            <taxonomy_class>Mammals</taxonomy_class>
+            <life>10-20 yrs</life>
+            <role_in_foodchain>Carnivores</role_in_foodchain>
+        </animal>
+    </animal>
+    <animal type="Elephant">
+        <animal model="African forest elephant">
+            <scientific_name>Loxodonta africana and Elephas maximus</scientific_name>
+            <bones>351</bones>
+            <legs>Four</legs>
+            <taxonomy_class>Mammals</taxonomy_class>
+            <life>60-70 yrs</life>
+            <role_in_foodchain>Herbovores</role_in_foodchain>
+        </animal>
+    </animal>
+    <animal type="Tiger">
+        <animal model="Caspian tiger">
+            <scientific_name>Panthera tigris</scientific_name>
+            <bones>432</bones>
+            <legs>Four</legs>
+            <taxonomy_class>Mammals</taxonomy_class>
+            <life>10-20 yrs</life>
+            <role_in_foodchain>Carnivores</role_in_foodchain>
+        </animal>
+    </animal>
+</animals>
